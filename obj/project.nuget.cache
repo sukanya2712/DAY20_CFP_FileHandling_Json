@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sq7G2EY8zW9ebU6YrWndryn0Vt31zeqnHsU+NSYs9gR6VNGr+UR9gbekPH/Dn5qSJbVR4KQVHOGWA4KD0mDu7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sukanay\\source\\repos\\AddressBookFileIO\\AddressBookFileIO\\AddressBookFileIO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sukanay\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Sukanay\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
